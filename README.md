@@ -1,4 +1,4 @@
-# Is-in-browser-DOCX-editing-possible-with-react
+# Is in browser DOCX editing possible with react
 This repository contains an example of how to achieve in-browser DOCX editing in a React application using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
